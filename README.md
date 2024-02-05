@@ -29,6 +29,6 @@ AVLTree: A AVL tree implementation.
 RBTree: A red black search tree implementation.
 Trie: A trie implementation.
 
-Contributing
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please feel free to contribute to it.
 
