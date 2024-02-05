@@ -20,14 +20,14 @@ print(ll)
 ```
 
 ## Available Data Structures
-LinkedList: A doubly linked list implementation.
-Stack: A stack implementation using a linked list.
-Queue: A queue implementation using a linked list.
-Deque: A deque implementation using a linked list.
-BinarySearchTree: A binary search tree implementation.
-AVLTree: A AVL tree implementation.
-RBTree: A red black search tree implementation.
-Trie: A trie implementation.
+1. LinkedList: A doubly linked list implementation.
+2. Stack: A stack implementation using a linked list.
+3. Queue: A queue implementation using a linked list.
+4. Deque: A deque implementation using a linked list.
+5. BinarySearchTree: A binary search tree implementation.
+6. AVLTree: A AVL tree implementation.
+7. RBTree: A red black search tree implementation.
+8. Trie: A trie implementation.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please feel free to contribute to it.
