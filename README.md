@@ -3,11 +3,9 @@ Welcome to the PySTL Library! This library is designed for educational purposes,
 
 ## Table of Contents
 1. Overview
-2. Installation
-3. Usage
-4. Available Data Structures
-5. Contributing
-6. License
+2. Usage
+3. Available Data Structures
+4. Contributing
 
 ## Overview
 This Python package provides a collection of basic data structures implemented in Python. The goal is to offer clear and simple implementations to aid in the study of data structures and algorithms. Each data structure is implemented from scratch, allowing users to explore and understand the underlying concepts.
